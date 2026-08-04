@@ -15,3 +15,15 @@ env/
 
 # Mac
 .DS_Store
+
+# Course-restricted data files
+data/*.txt
+data/*.train
+data/*.test
+!data/README.md
+
+# Personal notes / scratch
+tmp/
+scratch/
+d.txt
+week2/2026-08-04.txt

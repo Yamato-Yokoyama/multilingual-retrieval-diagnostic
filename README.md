@@ -180,7 +180,12 @@ multilingual-retrieval-diagnostic/
 ```
 
 ---
+## Data Sources
 
+- **Week 1** (compound classification): SNLP1 course materials, University of Tübingen (2025)
+- **Week 2** (compound segmentation): SNLP2 course materials, University of Tübingen, taught by Prof. Çağrı Çöltekin. Course-restricted dataset.
+
+---
 ## About Me
 
 BA student in Computational Linguistics (ISCL), University of Tübingen.
@@ -188,5 +193,5 @@ Previously: Computer Science at Temple University Japan, AI engineering internsh
 
 Currently looking for **Werkstudent / Internship** positions in Applied AI Engineering — especially multilingual NLP, retrieval, and search — starting late August 2026.
 
-- 📫 LinkedIn: *[add your link]*
-- 💻 GitHub: *[add your link]*
+- 📫 LinkedIn: *[https://www.linkedin.com/in/yamato-yokoyama/]*
+- 💻 GitHub: *[https://github.com/Yamato-Yokoyama]*
